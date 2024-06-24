@@ -22,4 +22,5 @@ To analyze the business's data, encompassing orders, customers, and products tab
 **[Excel File Link](https://github.com/colinryanx/Coffee-Sales/blob/main/Coffee%20Sales.xlsx)**
 
 ## Dashboard
-![1](https://github.com/colinryanx/Coffee-Sales/assets/171652558/58e49281-f908-4603-a800-c3a663abdb6f)
+![2](https://github.com/colinryanx/Coffee-Sales/assets/171652558/c9a44cbb-93f6-4ccf-826c-bf49f76f58f8)
+
