@@ -1,5 +1,4 @@
-# Coffee Sales Project
-Excel Project
+# Coffee Sales Excel Project
 
 ## Problem Statement
 A Coffee Business has accumulated extensive data from 2019 to 2022 on its operations, comprising detailed records of orders, customer demographics, and product information. However, this wealth of data remains underutilized. The company lacks a clear understanding of its sales patterns, customer preferences, and product performance. Without this insight, the business struggles to make informed decisions to drive growth, enhance customer satisfaction, and optimize its product offerings.
@@ -19,6 +18,8 @@ To analyze the business's data, encompassing orders, customers, and products tab
 4. Utilization of PIVOT Tables for Data Viz
 5. Created Charts using MS Excel's built-in function.
 6. Reporting and Visualization of key-insights using a Dashboard with Date, Roast Type, Loyalty Card, and Size Sliders
+
+**[Excel File Link](https://github.com/colinryanx/Coffee-Sales/blob/main/Coffee%20Sales.xlsx)**
 
 ## Dashboard
 ![1](https://github.com/colinryanx/Coffee-Sales/assets/171652558/58e49281-f908-4603-a800-c3a663abdb6f)
